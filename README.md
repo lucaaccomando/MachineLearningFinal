@@ -9,7 +9,7 @@
 
 This project builds a binary classification model to predict the `Arrest` outcome (Yes/No) for crimes reported in Chicago, using features such as crime type, location, time of day, and district. The goal is to uncover patterns that drive arrest likelihood and surface actionable insights for public safety stakeholders.
 
-\Notebook Link: https://colab.research.google.com/drive/1JL8CB0yPxGeTNDLyDfbXjtXBRbhIunqL#scrollTo=14568fba
+Notebook Link: https://colab.research.google.com/drive/1JL8CB0yPxGeTNDLyDfbXjtXBRbhIunqL#scrollTo=14568fba
 ---
 
 ## 🎯 Target Variable
